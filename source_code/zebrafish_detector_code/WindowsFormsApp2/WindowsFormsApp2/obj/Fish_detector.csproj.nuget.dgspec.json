@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Users\\Mattia\\Documents\\Code\\Visual Studio\\WindowsFormsApp2\\WindowsFormsApp2\\Fish_detector.csproj": {}
+  },
+  "projects": {
+    "G:\\Users\\Mattia\\Documents\\Code\\Visual Studio\\WindowsFormsApp2\\WindowsFormsApp2\\Fish_detector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Users\\Mattia\\Documents\\Code\\Visual Studio\\WindowsFormsApp2\\WindowsFormsApp2\\Fish_detector.csproj",
+        "projectName": "Fish_detector",
+        "projectPath": "G:\\Users\\Mattia\\Documents\\Code\\Visual Studio\\WindowsFormsApp2\\WindowsFormsApp2\\Fish_detector.csproj",
+        "packagesPath": "C:\\Users\\drbar\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\Mattia\\Documents\\Code\\Visual Studio\\WindowsFormsApp2\\WindowsFormsApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\drbar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "EMGU.CV": {
+              "target": "Package",
+              "version": "[4.1.1.3497, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
