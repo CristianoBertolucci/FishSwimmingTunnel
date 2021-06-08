@@ -13,6 +13,7 @@ https://www.liebertpub.com/doi/abs/10.1089/zeb.2020.1975
 
 Article to cite:
 
+An Automated Low-Cost Swim Tunnel for Measuring Swimming Performance in Fish
 Tyrone Lucon-Xiccato, Laura Bella, Elena Mainardi, Mattia Baraldi, Michele Bottarelli, Dorianna Sandonà, and Cristiano Bertolucci
-Zebrafish (2021) An Automated Low-Cost Swim Tunnel for Measuring Swimming Performance in Fish. 18(3):231-234
+Zebrafish 2021 18:3, 231-234 
 https://doi.org/10.1089/zeb.2020.1975
